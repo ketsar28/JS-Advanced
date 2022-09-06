@@ -1,0 +1,8 @@
+live server : http://127.0.0.1:5500
+
+tools : 
+- Chrome install : Allow CORS Plugin
+  link : https://chrome.google.com/webstore/detail/allow-cors-access-control/
+
+- Node-JS install : live-server
+  link : https:///www.npmjs.com/package/live-server

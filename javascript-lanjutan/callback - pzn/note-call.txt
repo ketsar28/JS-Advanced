@@ -1,0 +1,9 @@
+// callback
+
+callback : merupakan mekanisme untuk memanggil kembali kode program dari proses asynchronous. callback ini biasanya dibuat dalam bentuk function, dan function tersebut akan di eksekusi saat proses async selesai. Dengan menggunakan callback, program bisa menerima informasi yang dibutuhkan dari proses yang berjalan secara async
+
+// contoh async method
+
+- setInterval(hendler, time) : digunakan untuk menjalankan proses async secara periodik dalam waktu tertentu.
+
+- setTimeOut(hendler, time) : digunakan untuk menjalankan proses async sekali dalam waktu tertentu.
